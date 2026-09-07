@@ -1,2 +1,6 @@
-
+{
+  "latest_version": "4.1.0",
+  "download_url": "https://exemple.com/telechargement/KRYPTONITE_Setup.exe",
+  "changelog": "Correction de securite : retrait d'une couche de chiffrement inutile, correction du systeme de licences."
+}
 https://raw.githubusercontent.com/lucbenoit333-collab/kryptonite-updates/main/version.json
